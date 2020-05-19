@@ -1,2 +1,1 @@
-# Oszuszki
-ip-geolocator
+# ip-geolocator
